@@ -8,4 +8,5 @@ int main()
     cin >> n;
     
     cout << "25";
+    return 0;
 }
