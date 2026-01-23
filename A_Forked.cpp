@@ -15,7 +15,7 @@ int main()
     cin >> xk >> yk;
     cin >> xq >> yq;
 
-    
+    // this solution is still incomplete
   }
 
 }
